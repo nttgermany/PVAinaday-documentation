@@ -1,0 +1,59 @@
+site_name: NTT Germany AG & Co KG
+site_url:  https://www.bot-in-a-day.de
+site_description: 'NTT Bot-in-a-day'
+site_author: 'Holger Imbery'
+docs_dir: docs/
+
+repo_name: 'https://github.com/nttgermany/PVAinaday-documentation'
+repo_url: 'https://github.com/nttgermany/PVAinaday-documentation'
+edit_uri: edit/main/docs/
+
+# Copyright
+copyright: Copyright &copy; 2022 Holger Imbery
+
+nav:
+    - home: index.md
+    - tags: tags.md
+    
+theme:
+  name: 'material'
+  custom_dir: docs/overrides
+  logo: assets/ntt_logo.png
+  palette:
+    primary: blue
+  
+  features:
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    
+
+markdown_extensions:
+  - meta
+  - tables
+  - admonition
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+
+plugins:
+  - tags:
+      tags_file: tags.md
+  - with-pdf:
+      cover_title: NTT Germany - Demo Environment
+      cover_subtitle: Holger Imbery
+      output_path: pdf/script.pdf
+  - search:
+       lang: en
+  - git-revision-date
+  - mkdocs-video
+
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
+
+
+  
