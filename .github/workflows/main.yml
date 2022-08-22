@@ -1,14 +1,12 @@
 name: generate website & deploy
 
 on:
-  workflow_dispatch:
   
   push:
     branches:
       - main
     paths:
       - 'docs/*'
-      - 'docs/articles/*'
       - 'mkdocs.yml'  
 
     
