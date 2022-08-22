@@ -1,21 +1,35 @@
 ## Headline  
 
+### Step 1
 descriptive text descriptive text descriptive text descriptive text descriptive text descriptive text descriptive text descriptive text  
+
 ![Image title](screenshots/Clipboard10.jpg){align=right}  
 
-descriptive text descriptive text descriptive text descriptive text descriptive text descriptive text   
-![Image title](screenshots/Clipboard13.jpg
+### Step 2
+descriptive text descriptive text descriptive text descriptive text descriptive text descriptive text descriptive text descriptive text  
 
-descriptive text descriptive text descriptive text descriptive text descriptive text descriptive text   
-![Image title](screenshots/Clipboard17.jpg
 
-descriptive text descriptive text descriptive text descriptive text descriptive text descriptive text   
-![Image title](screenshots/Clipboard19.jpg
+![Image title](screenshots/Clipboard13.jpg){align=right}  
 
+### Step 3
+descriptive text descriptive text descriptive text descriptive text descriptive text descriptive text descriptive text descriptive text  
 descriptive text descriptive text descriptive text descriptive text descriptive text descriptive text   
-![Image title](screenshots/Clipboard20.jpg
+![Image title](screenshots/Clipboard17.jpg){align=right}  
 
-descriptive text descriptive text descriptive text descriptive text descriptive text descriptive text   
+### Step 4
+descriptive text descriptive text descriptive text descriptive text descriptive text descriptive text descriptive text descriptive text  
+
+
+![Image title](screenshots/Clipboard19.jpg){align=right}  
+
+### Step 5
+descriptive text descriptive text descriptive text descriptive text descriptive text descriptive text descriptive text descriptive text  
+
+![Image title](screenshots/Clipboard20.jpg){align=right}  
+
+### Step 6
+descriptive text descriptive text descriptive text descriptive text descriptive text descriptive text descriptive text descriptive text  
+
 ![Image title](screenshots/Clipboard21.jpg){align=right}  
  
 ![Image title](screenshots/Clipboard23.jpg){align=right}  
