@@ -19,6 +19,7 @@ on:
       - 'docs/articles/*'
       - 'mkdocs.yml'
       - 'docs/scripts/*'
+  workflow_dispatch:
 
 jobs:
   build_and_deploy_job:
