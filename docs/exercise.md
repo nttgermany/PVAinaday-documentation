@@ -31,6 +31,9 @@ descriptive text descriptive text descriptive text descriptive text descriptive 
 descriptive text descriptive text descriptive text descriptive text descriptive text descriptive text descriptive text descriptive text  
 
 ![Image title](screenshots/Clipboard21.jpg){align=right}  
+
+### Step 7
+descriptive text descriptive text descriptive text descriptive text descriptive text descriptive text descriptive text descriptive text 
  
 ![Image title](screenshots/Clipboard23.jpg){align=right}  
 ![Image title](screenshots/Clipboard25.jpg){align=right}  
