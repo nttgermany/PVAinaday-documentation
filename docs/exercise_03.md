@@ -1,3 +1,12 @@
+---
+title: Exercise 03
+description: Excercise 03
+tags: 
+    - easy
+    - exercise
+---
+
+
 ## Exercise 03  
 
 ### Step 58
