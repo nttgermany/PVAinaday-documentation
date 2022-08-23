@@ -1,3 +1,12 @@
+---
+title: Exercise 01
+description: Excercise 01
+tags: 
+    - easy
+    - exercise
+---
+
+
 ## Exercise 01  
 
 ### Step 1
