@@ -19,7 +19,7 @@ nav:
       - exercise 02: exercise_02.md
       - exercise 03: exercise_03.md
     - tags: tags.md
-    
+    - legal: https://services.global.ntt/de-de/legal
 theme:
   name: 'material'
   custom_dir: docs/overrides
