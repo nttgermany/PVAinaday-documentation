@@ -13,7 +13,11 @@ copyright: Copyright &copy; 2022 Holger Imbery
 
 nav:
     - home: index.md
-    - exercise: exercise.md
+    - exercises: 
+      - exercise.md
+      - exercise 01: exercise_01.md
+      - exercise 02: exercise_02.md
+      - exercise 03: exercise_03.md
     - tags: tags.md
     
 theme:
