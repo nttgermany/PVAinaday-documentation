@@ -1,3 +1,12 @@
+---
+title: Exercise 02
+description: Excercise 02
+tags: 
+    - easy
+    - exercise
+---
+
+
 ## Exercise 02  
 
 ### Step 24
