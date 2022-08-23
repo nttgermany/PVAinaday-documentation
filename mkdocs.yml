@@ -15,9 +15,9 @@ nav:
     - home: index.md
     - exercises: 
 #      - exercise.md
-      - exercise 01: exercise_01.md
-      - exercise 02: exercise_02.md
-      - exercise 03: exercise_03.md
+      - Overview Topics: exercise_01.md
+      - Extended Functionality: exercise_02.md
+      - Integration Options: exercise_03.md
     - tags: tags.md
     - legal: https://services.global.ntt/de-de/legal
 theme:
