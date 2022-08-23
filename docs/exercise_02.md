@@ -1,5 +1,5 @@
 ---
-title: Exercise 02
+title: Extended Functionality
 description: Excercise 02
 tags: 
     - easy
@@ -7,7 +7,7 @@ tags:
 ---
 
 
-## Exercise 02  
+## Extended Functionality  
 
 ### Step 24
 Next topic.
