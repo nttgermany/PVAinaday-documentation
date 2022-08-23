@@ -1,5 +1,5 @@
 ---
-title: Exercise 03
+title: Integration Options
 description: Excercise 03
 tags: 
     - easy
@@ -7,7 +7,7 @@ tags:
 ---
 
 
-## Exercise 03  
+## Integration Options    
 
 ### Step 58
 Next topic.
