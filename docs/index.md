@@ -12,6 +12,7 @@ Exercises (Holger Imbery):
 
  * [Build a (voice-) bot in a Day](https://the.cognitiveservices.ninja/articles/workshop_PVAinaDay/)
  * [Background: Power Platform, a process digitalisation enabler, with conversational capabilities](https://the.cognitiveservices.ninja/articles/environment/)
+ * [Slides Power Platform](https://the.cognitiveservices.ninja/markdownslides/powerplatform#/)
 
 
 ## PVA in a Day August 2022
