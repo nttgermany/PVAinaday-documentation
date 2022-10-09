@@ -8,7 +8,7 @@
 ## PVA in a Day September 2022
 Team Jennifer Kim Krause, [Holger Imbery](https://the.cognitiveservices.ninja/about/) & Kay Schneutzer   
 
-exercises (Holger Imbery):   
+Exercises (Holger Imbery):   
 
  * [Build a (voice-) bot in a Day](https://the.cognitiveservices.ninja/articles/workshop_PVAinaDay/)
 
@@ -16,7 +16,7 @@ exercises (Holger Imbery):
 ## PVA in a Day August 2022
 Team Jennifer Kim Krause, [Holger Imbery](https://the.cognitiveservices.ninja/about/), Kay Schneutzer & Christian Pirlich   
 
-exercises(Christian Pirlich):   
+Exercises (Christian Pirlich):   
 
  * [Overview Topics](exercise_01.md)
  * [Functionality](exercise_02.md)

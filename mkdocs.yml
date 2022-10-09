@@ -16,7 +16,7 @@ nav:
     - legal: https://services.global.ntt/de-de/legal
 theme:
   name: 'material'
-  custom_dir: docs/overrides
+#  custom_dir: docs/overrides
   logo: assets/ntt_logo.png
   palette:
     primary: blue
