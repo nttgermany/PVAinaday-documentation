@@ -11,6 +11,7 @@ Team: Jennifer-Kim Krause, [Holger Imbery](https://the.cognitiveservices.ninja/a
 Exercises (Holger Imbery):   
 
  * [Build a (voice-) bot in a Day](https://the.cognitiveservices.ninja/articles/workshop_PVAinaDay/)
+ * [Background: Power Platform, a process digitalisation enabler, with conversational capabilities](https://the.cognitiveservices.ninja/articles/environment/)
 
 
 ## PVA in a Day August 2022
@@ -27,4 +28,4 @@ Exercises (Christian Pirlich):
 ### disclamer
 [legal](https://services.global.ntt/de-de/legal)   
 
-the domain "bot-in-a-day.de" is registered by [Holger Imbery](https://the.cognitiveservices.ninja/about/)  and NTT Germany is using it for "NTT Germanys - PVA in a Day" Sessions.
+the domain "bot-in-a-day.de" is registered (Registrant) by [Holger Imbery](https://the.cognitiveservices.ninja/about/) and NTT Germany is using it for "NTT Germanys - PVA in a Day" Sessions.
