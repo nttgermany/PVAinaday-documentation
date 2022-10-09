@@ -6,7 +6,7 @@
 
 
 ## PVA in a Day September 2022
-Team Jennifer Kim Krause, [Holger Imbery](https://the.cognitiveservices.ninja/about/) & [Kay Schneutzer](https://schneutzi-81.github.io/)   
+Team Jennifer-Kim Krause, [Holger Imbery](https://the.cognitiveservices.ninja/about/) & [Kay Schneutzer](https://schneutzi-81.github.io/)   
 
 Exercises (Holger Imbery):   
 
@@ -14,7 +14,7 @@ Exercises (Holger Imbery):
 
 
 ## PVA in a Day August 2022
-Team Jennifer Kim Krause, [Holger Imbery](https://the.cognitiveservices.ninja/about/), [Kay Schneutzer](https://schneutzi-81.github.io/) & Christian Pirlich   
+Team Jennifer-Kim Krause, [Holger Imbery](https://the.cognitiveservices.ninja/about/), [Kay Schneutzer](https://schneutzi-81.github.io/) & Christian Pirlich   
 
 Exercises (Christian Pirlich):   
 
