@@ -19,3 +19,4 @@ exercises(Christian Pirlich):
  * [Overview Topics](exercise_01.md)
  * [Functionality](exercise_02.md)
  * [Integration Options](exercise_03.md)
+ * [deliverables](outcome/Aug22/index.md)
