@@ -1,4 +1,4 @@
-## PVA in a Day September
+## PVA in a Day September 2022
 Excercises:
 * [Build a (voice-) bot in a Day](https://the.cognitiveservices.ninja/articles/workshop_PVAinaDay/)
 
