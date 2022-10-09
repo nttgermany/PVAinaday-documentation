@@ -6,7 +6,7 @@
 
 
 ## PVA in a Day September 2022
-Team Jennifer Kim Krause, Holger Imbery & Kay Schneutzer   
+Team Jennifer Kim Krause, [Holger Imbery](https://the.cognitiveservices.ninja/about/) & Kay Schneutzer   
 
 exercises (Holger Imbery):   
 
@@ -14,7 +14,7 @@ exercises (Holger Imbery):
 
 
 ## PVA in a Day August 2022
-Team Jennifer Kim Krause, Holger Imbery, Kay Schneutzer & Christian Pirlich   
+Team Jennifer Kim Krause, [Holger Imbery](https://the.cognitiveservices.ninja/about/), Kay Schneutzer & Christian Pirlich   
 
 exercises(Christian Pirlich):   
 
