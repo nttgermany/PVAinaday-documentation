@@ -39,12 +39,12 @@ markdown_extensions:
 
 
 plugins:
-  - tags:
-      tags_file: tags.md
-  - with-pdf:
-      cover_title: NTT Germany AG & CoKG - Bot in a day
-      cover_subtitle: Jennifer-Kim Krause, Christian Pirlich, Kay Schneutzer, Holger Imbery
-      output_path: pdf/script.pdf
+#  - tags:
+#      tags_file: tags.md
+#  - with-pdf:
+#      cover_title: NTT Germany AG & CoKG - Bot in a day
+#      cover_subtitle: Jennifer-Kim Krause, Christian Pirlich, Kay Schneutzer, Holger Imbery
+#      output_path: pdf/script.pdf
   - search:
        lang: en
   - git-revision-date
