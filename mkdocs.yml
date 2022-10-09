@@ -13,12 +13,6 @@ copyright: Copyright &copy; 2022 Holger Imbery
 
 nav:
     - home: index.md
-    - exercises: 
-#      - exercise.md
-      - Overview Topics: exercise_01.md
-      - Extended Functionality: exercise_02.md
-      - Integration Options: exercise_03.md
-    - tags: tags.md
     - legal: https://services.global.ntt/de-de/legal
 theme:
   name: 'material'
