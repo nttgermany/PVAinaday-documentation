@@ -15,6 +15,11 @@ Exercises (Holger Imbery):
  * [Slides Power Platform](https://the.cognitiveservices.ninja/markdownslides/powerplatform#/)
  * [demo bot PVAinaDay](https://the.cognitiveservices.ninja/downloads/PVAinaDay_1_0_0_7.zip)
 
+Links - requested by participants:
+ * [PVA Web Channel - Security (Token)](https://learn.microsoft.com/en-us/power-virtual-agents/configure-web-security)
+ * [PVA Publish & Integrate (Teams/Apps)](https://learn.microsoft.com/en-us/power-virtual-agents/publication-fundamentals-publish-channels)
+ * [PVA Documentation](https://learn.microsoft.com/en-us/power-virtual-agents/fundamentals-what-is-power-virtual-agents)
+
 
 ## PVA in a Day August 2022
 Team: Jennifer-Kim Krause, [Holger Imbery](https://the.cognitiveservices.ninja/about/), [Kay Schneutzer](https://schneutzi-81.github.io/) & Christian Pirlich   
