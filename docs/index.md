@@ -10,9 +10,10 @@ Team: Jennifer-Kim Krause, [Holger Imbery](https://the.cognitiveservices.ninja/a
 
 Exercises (Holger Imbery):   
 
- * [Build a (voice-) bot in a Day](https://the.cognitiveservices.ninja/articles/workshop_PVAinaDay/)
- * [Background: Power Platform, a process digitalisation enabler, with conversational capabilities](https://the.cognitiveservices.ninja/articles/environment/)
+ * [Build a (voice-) bot in a Day](https://the.cognitiveservices.ninja/2022/10/10/powervirtualagentinaday/)
+ * [Background: Power Platform, a process digitalisation enabler, with conversational capabilities](https://the.cognitiveservices.ninja/2022/10/09/environment/)
  * [Slides Power Platform](https://the.cognitiveservices.ninja/markdownslides/powerplatform#/)
+ * [demo bot PVAinaDay](https://the.cognitiveservices.ninja/downloads/PVAinaDay_1_0_0_7.zip)
 
 
 ## PVA in a Day August 2022
