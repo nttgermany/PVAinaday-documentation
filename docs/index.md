@@ -33,7 +33,7 @@ Exercises (Christian Pirlich):
  * [deliverables](outcome/Aug22/index.md)
 
 
-### disclaimer
+## disclaimer
 [legal](https://services.global.ntt/de-de/legal)   
 
 the domain "bot-in-a-day.de" is registered (Registrant) by [Holger Imbery](https://the.cognitiveservices.ninja/about/) and NTT Germany is using it for "NTT Germanys - PVA in a Day" Sessions.
