@@ -21,6 +21,10 @@ Links - requested by participants:
  * [PVA Publish & Integrate (Teams/Apps)](https://learn.microsoft.com/en-us/power-virtual-agents/publication-fundamentals-publish-channels)
  * [PVA Documentation](https://learn.microsoft.com/en-us/power-virtual-agents/fundamentals-what-is-power-virtual-agents)
 
+Slides - general part
+
+  * [slides pdf](outcome/Sept22/slides20221011.pdf)
+
 
 ## PVA in a Day August 2022
 Team: Jennifer-Kim Krause, [Holger Imbery](https://the.cognitiveservices.ninja/about/), [Kay Schneutzer](https://schneutzi-81.github.io/) & Christian Pirlich   
