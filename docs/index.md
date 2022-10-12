@@ -23,7 +23,7 @@ Links - requested by participants:
 
 Slides - general part
 
-  * [slides pdf](outcome/Sept22/slides20221011.pdf)
+  * [slides pdf](outcome/Sep22/slides20221011.pdf)
 
 
 ## PVA in a Day August 2022
